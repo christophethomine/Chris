@@ -1,0 +1,1091 @@
+{
+  "intents": [
+    {
+      "intent": "festival",
+      "examples": [
+        {
+          "text": "C'est quoi ?"
+        },
+        {
+          "text": "C'est quoi le Six Festival ?"
+        },
+        {
+          "text": "Pour quoi ce festival ?"
+        },
+        {
+          "text": "Quel est le but de l'évènement ?"
+        },
+        {
+          "text": "Qu'est ce que c'est ?"
+        }
+      ],
+      "description": "Description de l'évènement"
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Abus de chatbot, est-ce possible ?"
+        },
+        {
+          "text": "Avez-vous un nom de famille?"
+        },
+        {
+          "text": "Avez vous un ou des surnoms?"
+        },
+        {
+          "text": "Depuis combien de temps effectuez-vous cette fonction?"
+        },
+        {
+          "text": "Écris-tu le portugais ?"
+        },
+        {
+          "text": "Est-ce que l'agent virtuel est toujours disponible ?"
+        },
+        {
+          "text": "Es-tu intelligent ?"
+        },
+        {
+          "text": "Etes-vous adaptés pour le service et la relation client ?"
+        },
+        {
+          "text": "Êtes-vous un homme ou une femme ou un robot?"
+        },
+        {
+          "text": "Les chatbots, que sont-ils exactement capables de faire ?"
+        },
+        {
+          "text": "Pouvez-vous m'en dire plus sur vous?"
+        },
+        {
+          "text": "Pouvez-vous me permettre de réserver ou commander des billets ?"
+        },
+        {
+          "text": "Pouvez-vous offrir un support aux utilisateurs internes?"
+        },
+        {
+          "text": "Présentez-vous !"
+        },
+        {
+          "text": "Puis-je demander des conseils dans des questions juridiques ?"
+        },
+        {
+          "text": "Quelle est la technologie utilisée par les agents virtuels ?"
+        },
+        {
+          "text": "Quels sont vos centres d'intérêt ?"
+        },
+        {
+          "text": "Qu'est-ce que tu n'aimes pas?"
+        },
+        {
+          "text": "Salut, parles-tu l'espagnol ?"
+        }
+      ],
+      "description": "Demander des attributs génériques personnels"
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Ai-je besoin de l'espace de travail du service de conversation pour ajouter une fonctionnalité personnalisée?"
+        },
+        {
+          "text": "Avez-vous des capacités d'apprentissage ?"
+        },
+        {
+          "text": "Avez-vous des limites ?"
+        },
+        {
+          "text": "Bonjour, pouvez-vous énumérer les domaines dans lequels vous pouvez fournir de l'aide?"
+        },
+        {
+          "text": "Bonjour. Quelle sorte de choses pouvez-vous faire pour moi?"
+        },
+        {
+          "text": "Comment puis-je configurer mes préférences dans l'Agent Virtuel?"
+        },
+        {
+          "text": "Dans quelles autres questions pouvez-vous m'aider?"
+        },
+        {
+          "text": "J'ai besoin de votre aide pour la création de l'agent virtuel."
+        },
+        {
+          "text": "Pourquoi est-ce qu'il n'y a pas d'option de fermer la session dans 'Agent Virtuel'?"
+        },
+        {
+          "text": "Pouvez-vous lister les possibilités de la rubrique d'aide?"
+        },
+        {
+          "text": "Puis-je avoir une liste de sujets disponibles auxquels vous pouvez m'aider?"
+        },
+        {
+          "text": "Puis-je récupérer les interactions dans un agent virtuel ?"
+        },
+        {
+          "text": "Puis-je relier mon espace de travail avec un agent virtuel?"
+        },
+        {
+          "text": "Puis-je utiliser la fenêtre de prévisualisation pour tester le déroulement de ma conversation ?"
+        },
+        {
+          "text": "Puis-je voir 4 questions les plus fréquentes?"
+        },
+        {
+          "text": "Quelles sont les options avec lesquelles vous pouvez m'aider?"
+        },
+        {
+          "text": "Quels sont les options que je peux avoir de plus en utlisant un agent virtuel ?"
+        },
+        {
+          "text": "Qu'est-ce que l'option Désactiver tout ?"
+        },
+        {
+          "text": "Savez-vous faire la traduction ?"
+        },
+        {
+          "text": "Y a-t-il d'autre domaines avec lesquels aide l'Agent Virtuel?"
+        }
+      ],
+      "description": "Demander des capacités du bot"
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Bonjour pourriez-vous me mettre en relation avec un agent en ligne?"
+        },
+        {
+          "text": "Bon, maintenant je veux parler à un agent à propos de certains frais."
+        },
+        {
+          "text": "Existe-t-il un numéro de service client qui je peux utiliser et parler à  un agent directement ?"
+        },
+        {
+          "text": "Existe-t-il un numéro que je peux composer pour parler à opérateur en direct ?"
+        },
+        {
+          "text": "J'aimerais parler à un agent humain, s'il vous plaît."
+        },
+        {
+          "text": "Je dois parler à une personne réelle plutôt qu'un système de réponse automatisé, s'il vous plaît."
+        },
+        {
+          "text": "Je pense qu'il faut me connecter avec un opérateur."
+        },
+        {
+          "text": "Je souhaite etre mis en relation avec un agent."
+        },
+        {
+          "text": "Je souhaite parler à un agent humain du service client."
+        },
+        {
+          "text": "Je veux parler au directeur ! Votre agent était inutile !"
+        },
+        {
+          "text": "Je veux parler avec un représentant, s'il vous plaît."
+        },
+        {
+          "text": "Je voudrais parler avec un agent en direct, s'il vous plaît."
+        },
+        {
+          "text": "Laissez-moi parler à votre patron maintenant !"
+        },
+        {
+          "text": "Personne ne répond au téléphone !"
+        },
+        {
+          "text": "Pouvez-vous me mettre en contact avec un agent, s'il vous plaît ? Ma conversation a été coupée."
+        },
+        {
+          "text": "Pouvez-vous, s'il vous plaît, diriger mon appel vers un agent humain? Je voudrais parler directement avec un être humain."
+        },
+        {
+          "text": "Puis-je parler à un agent à propos de mon compte ?"
+        },
+        {
+          "text": "Puis-je parler à un représentant du service humain maintenant ?"
+        },
+        {
+          "text": "Veuillez me connecter à un gestionnaire."
+        },
+        {
+          "text": "Y a-t-il un numéro que je peux composer et rejoindre une personne réelle qui peut m'aider?"
+        }
+      ],
+      "description": "Demander un agent humain"
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "C'est tout, merci."
+        },
+        {
+          "text": "C'était sympa de bavarder avec toi!"
+        },
+        {
+          "text": "C'était un plaisir de chatter avec vous !"
+        },
+        {
+          "text": "D'accord merci. Au revoir!"
+        },
+        {
+          "text": "Donc, je vous remercie beaucoup de votre aide. Je vous souhaite une bonne journée !"
+        },
+        {
+          "text": "J'ai besoin d'une pause, au revoir !"
+        },
+        {
+          "text": "Je dois partir maintenant."
+        },
+        {
+          "text": "Je m'en vais maintenant."
+        },
+        {
+          "text": "Je n'ai plus de questions."
+        },
+        {
+          "text": "Je pars maintenant, à plus !"
+        },
+        {
+          "text": "Je rediscuterai avec vous plus tard."
+        },
+        {
+          "text": "Je vais te parler plus tard !"
+        },
+        {
+          "text": "Je vais vous reparler bientôt."
+        },
+        {
+          "text": "Je voudrais arrêter là."
+        },
+        {
+          "text": "Merci beaucoup, on se reparle plus tard."
+        },
+        {
+          "text": "Nous allos rediscuter bientôt."
+        },
+        {
+          "text": "Ok, c'est tout ce dont j'ai besoin pour l'instant."
+        },
+        {
+          "text": "OK, merci. Au revoir !"
+        },
+        {
+          "text": "Passe une bonne journée !"
+        },
+        {
+          "text": "Pouvons-nous arrêter ?"
+        }
+      ],
+      "description": "Terminez la conversation"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Allez, commençons !"
+        },
+        {
+          "text": "âllo, âllo !"
+        },
+        {
+          "text": "Bonjour , c'est votre support informatique , qu'est ce que je peux faire pour vous ?"
+        },
+        {
+          "text": "Bonjour, qui êtes-vous?"
+        },
+        {
+          "text": "Bonjour, quoi de neuf ?"
+        },
+        {
+          "text": "Commencez dès le début s'il vous plaît !"
+        },
+        {
+          "text": "Comment ça se passe aujourd'hui ?"
+        },
+        {
+          "text": "Comment ça va ce soir?"
+        },
+        {
+          "text": "Comment se passe votre journée ?"
+        },
+        {
+          "text": "Comment tu te sens?"
+        },
+        {
+          "text": "Comment va tout le monde ?"
+        },
+        {
+          "text": "Est-ce que les gens sont gentils avec vous?"
+        },
+        {
+          "text": "Est-ce que vous passez une bonne journée?"
+        },
+        {
+          "text": "J'aime parler. Toi aussi ?"
+        },
+        {
+          "text": "J'ai pensé que je pourrais juste te dire bonjour !"
+        },
+        {
+          "text": "Je suis heureux de te parler pour la première fois !"
+        },
+        {
+          "text": "Je voudrais commencer."
+        },
+        {
+          "text": "Puis-je te poser des questions?"
+        },
+        {
+          "text": "Salut, le conseiller !"
+        },
+        {
+          "text": "Tu vas bien ?"
+        }
+      ],
+      "description": "Saluez le bot"
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Comment pouvez-vous prouver que vous êtes un humain?"
+        },
+        {
+          "text": "Comment puis-je parler à Watson?"
+        },
+        {
+          "text": "Connecte-moi avec une personne réelle."
+        },
+        {
+          "text": "Dis-moi la vérité, qui est-ce que tu es?"
+        },
+        {
+          "text": "Dites-moi, êtes-vous un humain ou non?"
+        },
+        {
+          "text": "Dites-moi, qui êtes-vous?"
+        },
+        {
+          "text": "Est-ce que je discute avec un humain?"
+        },
+        {
+          "text": "Est-ce que je parle à un Bot?"
+        },
+        {
+          "text": "Est-ce que je parle à une personne ou suis-je en train de parler à une IA?"
+        },
+        {
+          "text": "Est-ce que je parle à Watson?"
+        },
+        {
+          "text": "Est-ce que t'es un ordinateur?"
+        },
+        {
+          "text": "Êtes-vous réel?"
+        },
+        {
+          "text": "Êtes-vous un homme ou une femme?"
+        },
+        {
+          "text": "Êtes-vous un humain ou un robot?"
+        },
+        {
+          "text": "Je parle avec qui?"
+        },
+        {
+          "text": "Pourrai-je parler un être humain s'il vous plaît ?"
+        },
+        {
+          "text": "Pouvez-vous être honnête avec moi?"
+        },
+        {
+          "text": "Pouvez-vous me connecter à une personne en direct?"
+        },
+        {
+          "text": "Qui es-tu vraiment?"
+        },
+        {
+          "text": "Vous êtes quoi, un ordinateur?"
+        }
+      ],
+      "description": "Demandez si vous parlez à un humain ou à un bot"
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Aimes-tu raconter des blagues?"
+        },
+        {
+          "text": "Aimes-tu rigoler?"
+        },
+        {
+          "text": "Amuse-moi!"
+        },
+        {
+          "text": "Amusons-nous!"
+        },
+        {
+          "text": "Connaissez-vous des blagues?"
+        },
+        {
+          "text": "Connais-tu une blague?"
+        },
+        {
+          "text": "Connais-tu une bonne blague salace?"
+        },
+        {
+          "text": "Dis-moi quelque chose de drôle!"
+        },
+        {
+          "text": "Dis-moi une autre blague!"
+        },
+        {
+          "text": "Fais-moi rire!"
+        },
+        {
+          "text": "Peux-tu chanter pour moi?"
+        },
+        {
+          "text": "Peux-tu dire un truc drôle?"
+        },
+        {
+          "text": "Peux-tu raconter une blague?"
+        },
+        {
+          "text": "Pouvez-vous me dire une blague?"
+        },
+        {
+          "text": "Quelle blague tu peux me raconter ?"
+        },
+        {
+          "text": "Quelle est ta blague préférée?"
+        },
+        {
+          "text": "Que pouvez-vous faire d'autre pour m'amuser?"
+        },
+        {
+          "text": "Raconte moi une blague !"
+        },
+        {
+          "text": "Surprends-moi avec quelque chose de drôle !"
+        },
+        {
+          "text": "Tu connais des jeux?"
+        }
+      ],
+      "description": "Demander une blague"
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Arrête de m'énerver!"
+        },
+        {
+          "text": "Ce n'est pas vrai!"
+        },
+        {
+          "text": "Connard!"
+        },
+        {
+          "text": "Espece de boîte de conserve!"
+        },
+        {
+          "text": "Idiot!"
+        },
+        {
+          "text": "Je te déteste."
+        },
+        {
+          "text": "Je veux parler à une de personne vivante!"
+        },
+        {
+          "text": "Programme stupide !"
+        },
+        {
+          "text": "Putain de robot!"
+        },
+        {
+          "text": "Tais-toi!"
+        },
+        {
+          "text": "T'es bizarre."
+        },
+        {
+          "text": "Tu es bête!"
+        },
+        {
+          "text": "Tu es chiant!"
+        },
+        {
+          "text": "Tu es inutile!"
+        },
+        {
+          "text": "Tu es nul."
+        },
+        {
+          "text": "Tu me fais chier!"
+        },
+        {
+          "text": "Tu m'énerves!"
+        },
+        {
+          "text": "Tu me saoule!"
+        },
+        {
+          "text": "Tu ne sais rien faire!"
+        },
+        {
+          "text": "Va te faire foutre!"
+        }
+      ],
+      "description": "Exprimer des commentaires défavorables"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Je suis vraiment surpris par ton intelligence!"
+        },
+        {
+          "text": "Tu bosses bien!"
+        },
+        {
+          "text": "Tu es adorable!"
+        },
+        {
+          "text": "Tu es bon!"
+        },
+        {
+          "text": "Tu es drôle!"
+        },
+        {
+          "text": "Tu es gentil!"
+        },
+        {
+          "text": "Tu es le meilleur!"
+        },
+        {
+          "text": "Tu es plutôt doué!"
+        },
+        {
+          "text": "Tu es plutôt intelligent!"
+        },
+        {
+          "text": "Tu es si intelligent, c'est incroyable!"
+        },
+        {
+          "text": "Tu es si sage!"
+        },
+        {
+          "text": "Tu es tellement amusant!"
+        },
+        {
+          "text": "Tu es vachement cool!"
+        },
+        {
+          "text": "Tu es vraiment cool!"
+        },
+        {
+          "text": "Tu te débrouilles plutôt bien!"
+        },
+        {
+          "text": "Vous êtes formidable!"
+        },
+        {
+          "text": "Vous êtes formidable! Merci!"
+        },
+        {
+          "text": "Vous êtes génial!"
+        },
+        {
+          "text": "Vous êtes un sympa!"
+        },
+        {
+          "text": "Vous êtes vraiment utile."
+        }
+      ],
+      "description": "Exprimer un sentiment positif ou de la gratitude"
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [],
+      "description": "Exprimer ses inquiétudes concernant la sécurité du bot"
+    },
+    {
+      "intent": "horaire",
+      "examples": [
+        {
+          "text": "A quelle heure est le festival ?"
+        },
+        {
+          "text": "A quelle heure peut-on être sur place ?"
+        },
+        {
+          "text": "Le festival est-il accessible toute la journée ?"
+        },
+        {
+          "text": "Le festival sera ouvert jusqu'à quelle heure ?"
+        },
+        {
+          "text": "Peut-on arriver après 21h ?"
+        },
+        {
+          "text": "Quelles sont les horaires d'ouverture du festival ?"
+        }
+      ],
+      "description": "Connaître les horaires "
+    },
+    {
+      "intent": "jours",
+      "examples": [
+        {
+          "text": "Le festival est-il ouvert le lundi ?"
+        },
+        {
+          "text": "Le festival est ouvert en mars ?"
+        },
+        {
+          "text": "Pouvez-vous me donner les dates du festival ?"
+        },
+        {
+          "text": "Quand à lieu le festival ?"
+        },
+        {
+          "text": "Quels jours est le festival ?"
+        }
+      ],
+      "description": "Jours du festival "
+    },
+    {
+      "intent": "lieu",
+      "examples": [
+        {
+          "text": "A quelle adresse ?"
+        },
+        {
+          "text": "avez vous des informations sur l'endroit ? "
+        },
+        {
+          "text": "C'est où ?"
+        },
+        {
+          "text": "Est-ce que c'est loin de Paris ?"
+        },
+        {
+          "text": "Le festival est-il en France ?"
+        },
+        {
+          "text": "lieu"
+        },
+        {
+          "text": "Où à lieu le festival ?"
+        },
+        {
+          "text": "Où est-ce que le festival se déroule ?"
+        },
+        {
+          "text": "Où se passe le festival ?"
+        }
+      ],
+      "description": "Lieu du festival"
+    },
+    {
+      "intent": "prix",
+      "examples": [
+        {
+          "text": "Combien ça coûte ?"
+        },
+        {
+          "text": "Combien coûte l'entrée ?"
+        },
+        {
+          "text": "Combien coûte l'entrée au festival ?"
+        },
+        {
+          "text": "Il y a t'il des prix réduit ?"
+        },
+        {
+          "text": "Quel est le prix du festival ?"
+        }
+      ],
+      "description": "Prix du festival"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "festival",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "festival",
+          "synonyms": [
+            "évènement"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "horaire",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "heure",
+          "synonyms": [
+            "horaire",
+            "ouvert"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "jours",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "lieu",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "lieu",
+          "synonyms": [
+            "adresse",
+            "endroit",
+            "région"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "prix",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "prix",
+          "synonyms": [
+            "coût"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bienvenue",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bonjour, comment puis-je vous aider ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bienvenue"
+    },
+    {
+      "type": "standard",
+      "parent": "node_1_1632918295369",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@sys-date",
+      "dialog_node": "node_10_1632918308936"
+    },
+    {
+      "type": "standard",
+      "title": "Horaire du festival",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Le festival est ouvert de 10h à minuit"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#horaire",
+      "dialog_node": "node_1_1632918295369",
+      "previous_sibling": "node_9_1632909332020"
+    },
+    {
+      "type": "standard",
+      "title": "horaires",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Le festival est ouvert de 10h à minuit"
+              },
+              {
+                "text": "Le festival est accessible de 10h du matin à minuit "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1632918295369",
+      "conditions": "@sys-time",
+      "dialog_node": "node_1_1632918334661",
+      "previous_sibling": "node_10_1632918308936"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bienvenue sur le site du Six Festival"
+              },
+              {
+                "text": "Bonjour et bienvenue, comment puis-je vous aider ? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_2_1632918877865",
+      "previous_sibling": "node_7_1632920430697"
+    },
+    {
+      "type": "standard",
+      "title": "Prix",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "L'entrée au festival coûte 25€ pour une journée et 45€ pour les deux jours "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#prix",
+      "dialog_node": "node_3_1633008181011",
+      "previous_sibling": "node_8_1633008354200"
+    },
+    {
+      "type": "standard",
+      "title": "Jour du festival",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Le festival a lieu du samedi 22 octobre au dimanche 23 octobre"
+              },
+              {
+                "text": "Le festival est ouvert du samedi 22 octobre au dimanche 23 octobre"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#jours",
+      "dialog_node": "node_7_1632920430697",
+      "previous_sibling": "node_3_1633008181011"
+    },
+    {
+      "type": "standard",
+      "title": "Description de l'évènement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Le Six Festival est un festival de musique qui se déroule sur un week-end à Lyon. Les bénéfices sont intégralement reversés à l'association \"Yahou\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#festival",
+      "dialog_node": "node_8_1633008354200",
+      "previous_sibling": "Bienvenue"
+    },
+    {
+      "type": "standard",
+      "title": "Lieu du festival",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#lieu",
+      "dialog_node": "node_9_1632909332020",
+      "previous_sibling": "node_2_1632918877865"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Le festival se trouve au 450 Route de Champagne à Lyon "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1632909332020",
+      "conditions": "@lieu:lieu",
+      "dialog_node": "response_10_1632909370423"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Le festival n'est pas ouvert ce jour-ci "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1632918308936",
+      "conditions": "@sys-date.reformatDateTime(\"u\")<5",
+      "dialog_node": "response_1_1632918516162"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oui, nous sommes ouvert"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1632918308936",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1632918673626",
+      "previous_sibling": "response_1_1632918516162"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1632909332020",
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1632917549918",
+      "previous_sibling": "response_10_1632909370423"
+    },
+    {
+      "type": "standard",
+      "title": "Tout le reste",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Je n'ai pas compris. Vous pouvez essayer de reformuler."
+              },
+              {
+                "text": "Pouvez-vous dire cela autrement ? Je ne comprends pas."
+              },
+              {
+                "text": "Je n'ai pas compris ce que vous voulez dire."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Tout le reste",
+      "previous_sibling": "node_1_1632918295369",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Vouliez-vous dire:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Aucune de précédent"
+    },
+    "human_agent_assist": {
+      "prompt": "Vouliez-vous dire:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "FAQ",
+  "language": "fr",
+  "description": "Foire à questions"
+}
